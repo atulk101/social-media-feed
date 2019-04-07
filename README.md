@@ -1,4 +1,8 @@
+
+This is sample social feed , it does not include any database interaction,only data is maintained by Redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
